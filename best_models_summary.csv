@@ -1,0 +1,7 @@
+Dataset,Description,Best_Model,R2_Score
+T_3301,General government (S13),Linear,0.7793107287598076
+T_3302,Central government (S1311),Linear,0.6268237342870276
+T_3303,State government (S13111),Polynomial,-0.12442718405370634
+T_3304,Miscellaneous bodies of central government (S13112),Polynomial,-15.10602614587373
+T_3305,Local government (S1313),Linear,0.20557430902378226
+T_3306,Social security funds (S1314),Linear,0.8400929784929928
